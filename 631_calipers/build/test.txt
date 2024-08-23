@@ -1,0 +1,583 @@
+==============================================================
+../demo/test.trace
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  11
+Window instructions count: 11
+
+Length: 35
+ILP:    0.3143
+CPI:    3.182
+
+Good fetch hit cycles:  5.714% (2)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   5.714% (2)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          5.714% (2)
+Dispatch cycles:        17.14% (6)
+Int cycles:             57.14% (20)
+FP cycles:              0% (0)
+LS cycles:              0% (0)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       0% (0)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          8.571% (3)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    33.33% (1)
+Critical fp instructions:     0% (0)
+Critical load instructions:   0% (0)
+Critical store instructions:  0% (0)
+Critical branch instructions: 66.67% (2)
+Critical other instructions:  0% (0)
+All int instructions:         81.82% (9)
+All fp instructions:          0% (0)
+All load instructions:        0% (0)
+All store instructions:       0% (0)
+All branch instructions:      18.18% (2)
+All other instructions:       0% (0)
+
+L1i MPKI:        0
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        0
+BP MPKI:         90.91
+BP accuracy (%): 50
+
+==============================================================
+../demo/movbl.trace
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  1
+Window instructions count: 1
+
+Length: 8
+ILP:    0.125
+CPI:    8
+
+Good fetch hit cycles:  0% (0)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   0% (0)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          12.5% (1)
+Dispatch cycles:        37.5% (3)
+Int cycles:             50% (4)
+FP cycles:              0% (0)
+LS cycles:              0% (0)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       0% (0)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          0% (0)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    100% (1)
+Critical fp instructions:     0% (0)
+Critical load instructions:   0% (0)
+Critical store instructions:  0% (0)
+Critical branch instructions: 0% (0)
+Critical other instructions:  0% (0)
+All int instructions:         100% (1)
+All fp instructions:          0% (0)
+All load instructions:        0% (0)
+All store instructions:       0% (0)
+All branch instructions:      0% (0)
+All other instructions:       0% (0)
+
+L1i MPKI:        0
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        0
+BP MPKI:         0
+BP accuracy (%): nan
+
+==============================================================
+../demo/movbl.trace
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  1
+Window instructions count: 1
+
+Length: 8
+ILP:    0.125
+CPI:    8
+
+Good fetch hit cycles:  0% (0)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   0% (0)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          12.5% (1)
+Dispatch cycles:        37.5% (3)
+Int cycles:             50% (4)
+FP cycles:              0% (0)
+LS cycles:              0% (0)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       0% (0)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          0% (0)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    100% (1)
+Critical fp instructions:     0% (0)
+Critical load instructions:   0% (0)
+Critical store instructions:  0% (0)
+Critical branch instructions: 0% (0)
+Critical other instructions:  0% (0)
+All int instructions:         100% (1)
+All fp instructions:          0% (0)
+All load instructions:        0% (0)
+All store instructions:       0% (0)
+All branch instructions:      0% (0)
+All other instructions:       0% (0)
+
+L1i MPKI:        0
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        0
+BP MPKI:         0
+BP accuracy (%): nan
+
+==============================================================
+../demo/movbl.trace
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  1
+Window instructions count: 1
+
+Length: 8
+ILP:    0.125
+CPI:    8
+
+Good fetch hit cycles:  0% (0)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   0% (0)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          12.5% (1)
+Dispatch cycles:        37.5% (3)
+Int cycles:             50% (4)
+FP cycles:              0% (0)
+LS cycles:              0% (0)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       0% (0)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          0% (0)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    100% (1)
+Critical fp instructions:     0% (0)
+Critical load instructions:   0% (0)
+Critical store instructions:  0% (0)
+Critical branch instructions: 0% (0)
+Critical other instructions:  0% (0)
+All int instructions:         100% (1)
+All fp instructions:          0% (0)
+All load instructions:        0% (0)
+All store instructions:       0% (0)
+All branch instructions:      0% (0)
+All other instructions:       0% (0)
+
+L1i MPKI:        0
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        0
+BP MPKI:         0
+BP accuracy (%): nan
+
+==============================================================
+../demo/movbl.trace
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  1
+Window instructions count: 1
+
+Length: 8
+ILP:    0.125
+CPI:    8
+
+Good fetch hit cycles:  0% (0)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   0% (0)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          12.5% (1)
+Dispatch cycles:        37.5% (3)
+Int cycles:             50% (4)
+FP cycles:              0% (0)
+LS cycles:              0% (0)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       0% (0)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          0% (0)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    100% (1)
+Critical fp instructions:     0% (0)
+Critical load instructions:   0% (0)
+Critical store instructions:  0% (0)
+Critical branch instructions: 0% (0)
+Critical other instructions:  0% (0)
+All int instructions:         100% (1)
+All fp instructions:          0% (0)
+All load instructions:        0% (0)
+All store instructions:       0% (0)
+All branch instructions:      0% (0)
+All other instructions:       0% (0)
+
+L1i MPKI:        0
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        0
+BP MPKI:         0
+BP accuracy (%): nan
+
+==============================================================
+../demo/movbl.trace
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  1
+Window instructions count: 1
+
+Length: 8
+ILP:    0.125
+CPI:    8
+
+Good fetch hit cycles:  0% (0)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   0% (0)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          12.5% (1)
+Dispatch cycles:        37.5% (3)
+Int cycles:             50% (4)
+FP cycles:              0% (0)
+LS cycles:              0% (0)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       0% (0)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          0% (0)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    100% (1)
+Critical fp instructions:     0% (0)
+Critical load instructions:   0% (0)
+Critical store instructions:  0% (0)
+Critical branch instructions: 0% (0)
+Critical other instructions:  0% (0)
+All int instructions:         100% (1)
+All fp instructions:          0% (0)
+All load instructions:        0% (0)
+All store instructions:       0% (0)
+All branch instructions:      0% (0)
+All other instructions:       0% (0)
+
+L1i MPKI:        0
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        0
+BP MPKI:         0
+BP accuracy (%): nan
+
+==============================================================
+../demo/movbl.trace
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  1
+Window instructions count: 1
+
+Length: 8
+ILP:    0.125
+CPI:    8
+
+Good fetch hit cycles:  0% (0)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   0% (0)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          12.5% (1)
+Dispatch cycles:        37.5% (3)
+Int cycles:             50% (4)
+FP cycles:              0% (0)
+LS cycles:              0% (0)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       0% (0)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          0% (0)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    100% (1)
+Critical fp instructions:     0% (0)
+Critical load instructions:   0% (0)
+Critical store instructions:  0% (0)
+Critical branch instructions: 0% (0)
+Critical other instructions:  0% (0)
+All int instructions:         100% (1)
+All fp instructions:          0% (0)
+All load instructions:        0% (0)
+All store instructions:       0% (0)
+All branch instructions:      0% (0)
+All other instructions:       0% (0)
+
+L1i MPKI:        0
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        0
+BP MPKI:         0
+BP accuracy (%): nan
+
+==============================================================
+../demo/movbl.trace
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  1
+Window instructions count: 1
+
+Length: 6
+ILP:    0.1667
+CPI:    6
+
+Good fetch hit cycles:  0% (0)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   0% (0)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          16.67% (1)
+Dispatch cycles:        50% (3)
+Int cycles:             0% (0)
+FP cycles:              0% (0)
+LS cycles:              0% (0)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       0% (0)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          33.33% (2)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    0% (0)
+Critical fp instructions:     0% (0)
+Critical load instructions:   0% (0)
+Critical store instructions:  0% (0)
+Critical branch instructions: 100% (1)
+Critical other instructions:  0% (0)
+All int instructions:         0% (0)
+All fp instructions:          0% (0)
+All load instructions:        0% (0)
+All store instructions:       0% (0)
+All branch instructions:      100% (1)
+All other instructions:       0% (0)
+
+L1i MPKI:        0
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        0
+BP MPKI:         0
+BP accuracy (%): 100
+
+==============================================================
+../demo/movbl.trace
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  1
+Window instructions count: 1
+
+Length: 6
+ILP:    0.1667
+CPI:    6
+
+Good fetch hit cycles:  0% (0)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   0% (0)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          16.67% (1)
+Dispatch cycles:        50% (3)
+Int cycles:             0% (0)
+FP cycles:              0% (0)
+LS cycles:              0% (0)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       0% (0)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          33.33% (2)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    0% (0)
+Critical fp instructions:     0% (0)
+Critical load instructions:   0% (0)
+Critical store instructions:  0% (0)
+Critical branch instructions: 100% (1)
+Critical other instructions:  0% (0)
+All int instructions:         0% (0)
+All fp instructions:          0% (0)
+All load instructions:        0% (0)
+All store instructions:       0% (0)
+All branch instructions:      100% (1)
+All other instructions:       0% (0)
+
+L1i MPKI:        0
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        0
+BP MPKI:         0
+BP accuracy (%): 100
+
+==============================================================
+../demo/movbl.trace
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  3
+Window instructions count: 3
+
+Length: 17
+ILP:    0.1765
+CPI:    5.667
+
+Good fetch hit cycles:  11.76% (2)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   23.53% (4)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          11.76% (2)
+Dispatch cycles:        35.29% (6)
+Int cycles:             11.76% (2)
+FP cycles:              0% (0)
+LS cycles:              0% (0)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       0% (0)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          5.882% (1)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    50% (1)
+Critical fp instructions:     0% (0)
+Critical load instructions:   0% (0)
+Critical store instructions:  0% (0)
+Critical branch instructions: 50% (1)
+Critical other instructions:  0% (0)
+All int instructions:         33.33% (1)
+All fp instructions:          0% (0)
+All load instructions:        0% (0)
+All store instructions:       0% (0)
+All branch instructions:      66.67% (2)
+All other instructions:       0% (0)
+
+L1i MPKI:        0
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        0
+BP MPKI:         333.3
+BP accuracy (%): 50
+
+==============================================================
+../demo/movbl.trace
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  5
+Window instructions count: 5
+
+Length: 18
+ILP:    0.2778
+CPI:    3.6
+
+Good fetch hit cycles:  11.11% (2)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   22.22% (4)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          11.11% (2)
+Dispatch cycles:        33.33% (6)
+Int cycles:             16.67% (3)
+FP cycles:              0% (0)
+LS cycles:              0% (0)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       0% (0)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          5.556% (1)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    66.67% (2)
+Critical fp instructions:     0% (0)
+Critical load instructions:   0% (0)
+Critical store instructions:  0% (0)
+Critical branch instructions: 33.33% (1)
+Critical other instructions:  0% (0)
+All int instructions:         40% (2)
+All fp instructions:          0% (0)
+All load instructions:        0% (0)
+All store instructions:       0% (0)
+All branch instructions:      60% (3)
+All other instructions:       0% (0)
+
+L1i MPKI:        0
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        0
+BP MPKI:         200
+BP accuracy (%): 66.67
+

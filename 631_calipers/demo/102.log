@@ -1,0 +1,6 @@
+@I 0x0000ffff8fbde764 ldr x17, [x16, #8] @A 0xffff8fbfe008
+@I 0x0000ffff8fbdebbc bl #0xeb8
+@I 0x0000ffff8fbdea84 bl #0xcdc
+@I 0x0000ffff8fbde760 adrp x16, #0x21000
+@I 0x0000ffff8fbde768 add x16, x16, #8
+@I 0xffffffff8fbde76c br x17

@@ -1,0 +1,371 @@
+==============================================================
+../demo/101.log
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  354
+Window instructions count: 354
+
+Length: 467
+ILP:    0.758
+CPI:    1.319
+
+Good fetch hit cycles:  53.53% (250)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   14.56% (68)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          5.139% (24)
+Dispatch cycles:        15.85% (74)
+Int cycles:             5.567% (26)
+FP cycles:              0% (0)
+LS cycles:              0% (0)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       0% (0)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          5.353% (25)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    11.11% (3)
+Critical fp instructions:     0% (0)
+Critical load instructions:   0% (0)
+Critical store instructions:  0% (0)
+Critical branch instructions: 88.89% (24)
+Critical other instructions:  0% (0)
+All int instructions:         25.71% (91)
+All fp instructions:          0% (0)
+All load instructions:        0% (0)
+All store instructions:       0% (0)
+All branch instructions:      74.29% (263)
+All other instructions:       0% (0)
+
+L1i MPKI:        5.65
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        0
+BP MPKI:         70.62
+BP accuracy (%): 90.49
+
+==============================================================
+../demo/101.log
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  354
+Window instructions count: 354
+
+Length: 467
+ILP:    0.758
+CPI:    1.319
+
+Good fetch hit cycles:  53.53% (250)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   14.56% (68)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          5.139% (24)
+Dispatch cycles:        15.85% (74)
+Int cycles:             5.567% (26)
+FP cycles:              0% (0)
+LS cycles:              0% (0)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       0% (0)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          5.353% (25)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    11.11% (3)
+Critical fp instructions:     0% (0)
+Critical load instructions:   0% (0)
+Critical store instructions:  0% (0)
+Critical branch instructions: 88.89% (24)
+Critical other instructions:  0% (0)
+All int instructions:         25.71% (91)
+All fp instructions:          0% (0)
+All load instructions:        0% (0)
+All store instructions:       0% (0)
+All branch instructions:      74.29% (263)
+All other instructions:       0% (0)
+
+L1i MPKI:        5.65
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        0
+BP MPKI:         70.62
+BP accuracy (%): 90.49
+
+==============================================================
+../demo/101.log
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  587
+Window instructions count: 587
+
+Length: 563
+ILP:    1.043
+CPI:    0.9591
+
+Good fetch hit cycles:  61.1% (344)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   14.92% (84)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          4.618% (26)
+Dispatch cycles:        14.39% (81)
+Int cycles:             0% (0)
+FP cycles:              0% (0)
+LS cycles:              0.1776% (1)
+Load L1 hit cycles:     0.3552% (2)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       0% (0)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          4.44% (25)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    0% (0)
+Critical fp instructions:     0% (0)
+Critical load instructions:   3.846% (1)
+Critical store instructions:  0% (0)
+Critical branch instructions: 96.15% (25)
+Critical other instructions:  0% (0)
+All int instructions:         15.5% (91)
+All fp instructions:          0% (0)
+All load instructions:        11.75% (69)
+All store instructions:       27.94% (164)
+All branch instructions:      44.8% (263)
+All other instructions:       0% (0)
+
+L1i MPKI:        6.814
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        1.704
+BP MPKI:         42.59
+BP accuracy (%): 90.49
+
+==============================================================
+../demo/102.log
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  1
+Window instructions count: 1
+
+Length: 106
+ILP:    0.009434
+CPI:    106
+
+Good fetch hit cycles:  0% (0)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   0% (0)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          0.9434% (1)
+Dispatch cycles:        2.83% (3)
+Int cycles:             0% (0)
+FP cycles:              0% (0)
+LS cycles:              0.9434% (1)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       95.28% (101)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          0% (0)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    0% (0)
+Critical fp instructions:     0% (0)
+Critical load instructions:   100% (1)
+Critical store instructions:  0% (0)
+Critical branch instructions: 0% (0)
+Critical other instructions:  0% (0)
+All int instructions:         0% (0)
+All fp instructions:          0% (0)
+All load instructions:        100% (1)
+All store instructions:       0% (0)
+All branch instructions:      0% (0)
+All other instructions:       0% (0)
+
+L1i MPKI:        0
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        1000
+BP MPKI:         0
+BP accuracy (%): nan
+
+==============================================================
+../demo/102.log
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  1
+Window instructions count: 1
+
+Length: 106
+ILP:    0.009434
+CPI:    106
+
+Good fetch hit cycles:  0% (0)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   0% (0)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          0.9434% (1)
+Dispatch cycles:        2.83% (3)
+Int cycles:             0% (0)
+FP cycles:              0% (0)
+LS cycles:              0.9434% (1)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       95.28% (101)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          0% (0)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    0% (0)
+Critical fp instructions:     0% (0)
+Critical load instructions:   100% (1)
+Critical store instructions:  0% (0)
+Critical branch instructions: 0% (0)
+Critical other instructions:  0% (0)
+All int instructions:         0% (0)
+All fp instructions:          0% (0)
+All load instructions:        100% (1)
+All store instructions:       0% (0)
+All branch instructions:      0% (0)
+All other instructions:       0% (0)
+
+L1i MPKI:        0
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        1000
+BP MPKI:         0
+BP accuracy (%): nan
+
+==============================================================
+../demo/102.log
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  6
+Window instructions count: 6
+
+Length: 107
+ILP:    0.05607
+CPI:    17.83
+
+Good fetch hit cycles:  0% (0)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   0% (0)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          0.9346% (1)
+Dispatch cycles:        2.804% (3)
+Int cycles:             0% (0)
+FP cycles:              0% (0)
+LS cycles:              0.9346% (1)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       93.46% (100)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          1.869% (2)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    0% (0)
+Critical fp instructions:     0% (0)
+Critical load instructions:   50% (1)
+Critical store instructions:  0% (0)
+Critical branch instructions: 50% (1)
+Critical other instructions:  0% (0)
+All int instructions:         33.33% (2)
+All fp instructions:          0% (0)
+All load instructions:        16.67% (1)
+All store instructions:       0% (0)
+All branch instructions:      50% (3)
+All other instructions:       0% (0)
+
+L1i MPKI:        0
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        166.7
+BP MPKI:         0
+BP accuracy (%): 100
+
+==============================================================
+../demo/102.log
+--------------------------------------------------------------
+*** Window 0, Scenario 0
+
+Total instructions count:  6
+Window instructions count: 6
+
+Length: 107
+ILP:    0.05607
+CPI:    17.83
+
+Good fetch hit cycles:  0% (0)
+Good fetch miss cycles: 0% (0)
+Bad fetch hit cycles:   0% (0)
+Bad fetch miss cycles:  0% (0)
+Decode cycles:          0.9346% (1)
+Dispatch cycles:        2.804% (3)
+Int cycles:             0% (0)
+FP cycles:              0% (0)
+LS cycles:              0.9346% (1)
+Load L1 hit cycles:     0% (0)
+Load L2 hit cycles:     0% (0)
+Load miss cycles:       93.46% (100)
+Store L1 hit cycles:    0% (0)
+Store L2 hit cycles:    0% (0)
+Store miss cycles:      0% (0)
+Branch cycles:          1.869% (2)
+Syscall cycles:         0% (0)
+Atomic cycles:          0% (0)
+Other cycles:           0% (0)
+Commit cycles:          0% (0)
+
+Critical int instructions:    0% (0)
+Critical fp instructions:     0% (0)
+Critical load instructions:   50% (1)
+Critical store instructions:  0% (0)
+Critical branch instructions: 50% (1)
+Critical other instructions:  0% (0)
+All int instructions:         33.33% (2)
+All fp instructions:          0% (0)
+All load instructions:        16.67% (1)
+All store instructions:       0% (0)
+All branch instructions:      50% (3)
+All other instructions:       0% (0)
+
+L1i MPKI:        0
+L2i MPKI:        0
+L1d MPKI:        0
+L2d MPKI:        166.7
+BP MPKI:         0
+BP accuracy (%): 100
+

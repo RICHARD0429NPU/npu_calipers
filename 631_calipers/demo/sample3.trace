@@ -1,0 +1,13 @@
+@I 0xd46a6 addi x5, x7, 24
+@I 0xd46aa addi x5, x6, 64
+@I 0xd46ae addi x5, x6, 64
+@I 0xd46b3 addi x5, x6, 64
+@I 0xd46b7 addi x5, x6, 64
+@I 0xd46bb addi x5, x6, 64
+@I 0xd46bf addi x5, x6, 64
+@I 0xd46c4 mul  x5, x6, x4
+@I 0xd46c8 udiv x5, x6, x4
+@I 0xd46cc ldr  x5, 8(x6) @A 0x989f78
+@I 0xd46d0 str  x7, 8(x6) @A 0x989f78
+@I 0xd46d4 b.eq x5, x6, 64
+@I 0xd46d8 br   x8
